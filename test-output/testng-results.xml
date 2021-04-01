@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17527" started-at="2021-03-31T22:48:19 EDT" finished-at="2021-03-31T22:48:37 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17527" started-at="2021-03-31T22:48:19 EDT" finished-at="2021-03-31T22:48:37 EDT">
+      <class name="com.qa.DarkSky.tests.MainPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.DarkSky.tests.MainPageTest@460f76a6]" name="setup" is-config="true" duration-ms="5665" started-at="2021-03-31T22:48:19 EDT" finished-at="2021-03-31T22:48:25 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyTitleTest()[pri:1, instance:com.qa.DarkSky.tests.MainPageTest@460f76a6]" name="verifyTitleTest" duration-ms="388" started-at="2021-03-31T22:48:25 EDT" finished-at="2021-03-31T22:48:25 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleTest -->
+        <test-method status="PASS" signature="enterlocation()[pri:2, instance:com.qa.DarkSky.tests.MainPageTest@460f76a6]" name="enterlocation" duration-ms="8228" started-at="2021-03-31T22:48:25 EDT" finished-at="2021-03-31T22:48:34 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterlocation -->
+        <test-method status="PASS" signature="verifyMinTemp()[pri:3, instance:com.qa.DarkSky.tests.MainPageTest@460f76a6]" name="verifyMinTemp" duration-ms="1422" started-at="2021-03-31T22:48:34 EDT" finished-at="2021-03-31T22:48:35 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMinTemp -->
+        <test-method status="PASS" signature="verifyMaxTemp()[pri:4, instance:com.qa.DarkSky.tests.MainPageTest@460f76a6]" name="verifyMaxTemp" duration-ms="1386" started-at="2021-03-31T22:48:35 EDT" finished-at="2021-03-31T22:48:37 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMaxTemp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.DarkSky.tests.MainPageTest@460f76a6]" name="tearDown" is-config="true" duration-ms="167" started-at="2021-03-31T22:48:37 EDT" finished-at="2021-03-31T22:48:37 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.DarkSky.tests.MainPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
